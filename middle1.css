@@ -1,0 +1,237 @@
+.hr5{
+    border: 1px solid #000;
+}
+
+section{
+    background-color: #ccffff;
+    margin-top: 109px;
+    height: 685px;
+}
+
+.about{
+    margin-left: 285px;
+    margin-top: 34px;
+    width: 422px;
+    height: 220px;
+}
+
+.about h2{
+    font-family: sans-serif;
+}
+
+.about .hr6{
+    margin-top: 10px;
+    border: 1px solid #cccc;
+}
+
+.about .para{
+    margin-top: 25px;
+    width: 445px;
+}
+
+.about .para1{
+    margin-top: 25px;
+    width: 445px;
+}
+
+.why{
+    margin-left: 736px;
+    margin-top: -220px;
+    width: 422px;
+    height: 220px;
+}
+
+.why h2{
+    font-family: sans-serif;
+}
+
+.why .hr7{
+    margin-top: 10px;
+    border: 1px solid #cccc;
+}
+
+.why img{
+    margin-top: 20px;
+}
+
+.why .para2{
+    margin-top: -106px;
+    margin-left: 118px;
+    width: 320px;
+}
+
+.why .map{
+    margin-top: 35px;
+    margin-left: -18px;
+}
+
+.why .para3{
+    margin-top: -106px;
+    margin-left: 118px;
+    width: 320px;
+}
+
+.why .bicycle{
+    margin-top: 35px;
+    margin-left: -18px;
+}
+
+.why .para4{
+    margin-top: -77px;
+    margin-left: 118px;
+    width: 320px;
+}
+
+.how{
+    /* background-color: crimson; */
+    font-family: sans-serif;
+    margin-left: 18%;
+    margin-top: 12%;
+}
+
+.how h2{
+   font-weight: normal;
+}
+
+.how .hr8{
+    border: 1px solid #cccc;
+    margin-top: 10px;
+    width: 73%;
+ }
+
+ .how p{
+    margin-top: 10px;
+    line-height: 23px;
+    width: 73%;
+ }
+
+ .how button{
+    background-color: #77B277;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-top: 20px;
+    padding: 10px 20px;
+    color: #fff;
+    
+ }
+
+ @media (max-width: 1024px){
+    .hr5{
+        border: 1px solid #000;
+    }
+
+    section{
+        background-color: #ccffff;
+        margin-top: 109px;
+        height: 685px;
+    }
+    
+    .about{
+        margin-left: 80px;
+        margin-top: 34px;
+        width: 422px;
+        height: 220px;
+    }
+
+    .about h2{
+        font-family: sans-serif;
+    }
+    
+    .about .hr6{
+        margin-top: 10px;
+        border: 1px solid #cccc;
+    }
+    
+    .about .para{
+        margin-top: 25px;
+        width: 445px;
+    }
+    
+    .about .para1{
+        margin-top: 25px;
+        width: 445px;
+    }
+
+    .why{
+        margin-left: 536px;
+        margin-top: -220px;
+        width: 422px;
+        height: 220px;
+    }
+
+    .why h2{
+        font-family: sans-serif;
+    }
+    
+    .why .hr7{
+        margin-top: 10px;
+        border: 1px solid #cccc;
+    }
+    
+    .why img{
+        margin-top: 20px;
+    }
+    
+    .why .para2{
+        margin-top: -106px;
+        margin-left: 118px;
+        width: 255px;
+    }
+    
+    .why .map{
+        margin-top: 35px;
+        margin-left: -18px;
+    }
+    
+    .why .para3{
+        margin-top: -106px;
+        margin-left: 118px;
+        width: 255px;
+    }
+    
+    .why .bicycle{
+        margin-top: 35px;
+        margin-left: -18px;
+    }
+    
+    .why .para4{
+        margin-top: -77px;
+        margin-left: 118px;
+        width: 255px;
+    }
+
+    .how{
+        font-family: sans-serif;
+        margin-left: 8%;
+        margin-top: 25%;
+    }
+    
+    .how h2{
+       font-weight: normal;
+    }
+    
+    .how .hr8{
+        border: 1px solid #cccc;
+        margin-top: 10px;
+        width: 73%;
+     }
+    
+     .how p{
+        margin-top: 10px;
+        line-height: 23px;
+        width: 73%;
+     }
+    
+     .how button{
+        background-color: #77B277;
+        border-radius: 5px;
+        font-size: 20px;
+        margin-top: 20px;
+        padding: 10px 20px;
+        color: #fff;
+        
+     }
+    
+ }
+
+ 
